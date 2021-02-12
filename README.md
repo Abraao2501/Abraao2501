@@ -9,7 +9,7 @@
 
 ## Meus principais repositórios :file_folder:
 - <a href="https://github.com/Abraao2501/Every-day-a-new-learning">Repositório de estudos diários</a> :calendar:
-- <a href="https://github.com/Abraao2501/Abraao2501.github.io">Interface de um ECOMMERCE de sapatos responsivo</a> :athletic_shoe:
+- <a href="https://github.com/Abraao2501/Interactive-pricing-component">Página de Preço Interativa</a>
 - <a href="https://github.com/Abraao2501/Play_Indie">Reprodutor de músicas em Javascript puro</a> :notes:
 
 ## Entre em contato comigo :envelope:
