@@ -7,9 +7,10 @@
 - Estou atualmente com foco total em Javscript, Css e Html
 - Estou sempre ativo em meus <a href="https://github.com/Abraao2501?tab=repositories">repositórios</a>
 
-## Meus principais repositórios :file_folder:
-- <a href="https://controle-de-despesas.vercel.app/">Controle de despesas</a> :calendar:
-- <a href="https://github.com/Abraao2501/Every-day-a-new-learning">Repositório de estudos diários</a> :calendar:
+## Meus principais repositórios 📁
+- <a href="https://github.com/Abraao2501/rock-paper-scissors-master">Jogo de Pedra, Papel, Tesoura</a>
+- <a href="https://controle-de-despesas.vercel.app/">Controle de despesas</a> 
+- <a href="https://github.com/Abraao2501/Every-day-a-new-learning">Repositório de estudos diários</a> 
 - <a href="https://github.com/Abraao2501/Interactive-pricing-component">Página de Preço Interativa</a>
 - <a href="https://github.com/Abraao2501/Play_Indie">Reprodutor de músicas em Javascript puro</a> :notes:
 - <a href="https://github.com/Abraao2501/Profile-Card-Component-Main">Profile Card</a>
