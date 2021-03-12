@@ -14,6 +14,7 @@
 - <a href="https://github.com/Abraao2501/Interactive-pricing-component">Página de Preço Interativa</a>
 - <a href="https://github.com/Abraao2501/Play_Indie">Reprodutor de músicas em Javascript puro</a> :notes:
 - <a href="https://github.com/Abraao2501/Profile-Card-Component-Main">Profile Card</a>
+- <a href="https://github.com/Abraao2501/Greetings">Saudações</a>
 
 ## Entre em contato comigo :envelope:
 <a href="https://www.linkedin.com/in/abra%C3%A3o-veras-9b62571b9/">
