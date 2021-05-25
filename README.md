@@ -9,6 +9,7 @@
 
 ## Meus principais repositórios 📁
 - <a href="https://github.com/Abraao2501/rock-paper-scissors-master">Jogo de Pedra, Papel, Tesoura</a>
+- <a href="https://github.com/Abraao2501/agua_count">Contador de Copos de Água</a>
 - <a href="https://controle-de-despesas.vercel.app/">Controle de despesas</a> 
 - <a href="https://github.com/Abraao2501/Every-day-a-new-learning">Repositório de estudos diários</a> 
 - <a href="https://github.com/Abraao2501/Interactive-pricing-component">Página de Preço Interativa</a>
